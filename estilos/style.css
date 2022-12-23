@@ -131,13 +131,19 @@ nav a:hover{
     font-size: 12px;
     margin-top: 20px;
     margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
 }
+#banner_open {
+    border-bottom: 1px solid #0079c7;
+}
+    
 
 .banner_options a {
-    display: block;
+    display: inline-block;
     border: 1px solid white;
     padding: 5px;
     color: white;
-    font-size: 1px;
+    font-size: 13px;
     text-decoration: none;
 }
