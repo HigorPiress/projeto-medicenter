@@ -241,3 +241,27 @@ article .news_resume {
     color: #5c5c5c;
     margin-bottom: 30px
 }
+
+/* Aside */
+
+.box {
+    width: 125px;
+    height: 125px;
+    background-color: #36a9e1;
+    margin: 10px;
+}
+
+.tel {
+    margin: 20px;
+}
+
+.descrition_phone {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.tel img {
+    height: 30px;
+    width: 30px;
+}
