@@ -251,17 +251,44 @@ article .news_resume {
     margin: 10px;
 }
 
-.tel {
-    margin: 20px;
+.contats {
+    margin-top: 20px;
+    margin-left: 10px;
+    border-top: 1px solid #72727285;
+    border-bottom:1px solid #72727285;
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
 
 .descrition_phone {
     display: flex;
     align-items: center;
     margin-left: 20px;
+    
 }
 
-.tel img {
+.contats img {
     height: 30px;
     width: 30px;
+}
+
+.descrition_email {
+   display: flex;
+   align-items: center;
+   margin-left: 20px;
+}
+
+.email img {
+    height: 30px;
+    width: 30px;
+}
+
+.descriton_page {
+    display: flex;
+    align-items: center;
+   margin-left: 20px;
+}
+
+.descriton_page a {
+    margin: 2px;
 }
